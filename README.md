@@ -1,2 +1,5 @@
-# Core-Commander
-Core commander package distro
+# Command & Control panel
+## GNU-Szmelc
+
+> EXPERIMENTAL COMMANDER
+> FULL GNU DIALOG
